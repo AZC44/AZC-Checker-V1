@@ -4,7 +4,7 @@ CMD script to analyze Minecraft mods and identify potential cheat clients.
 
 ## Installation
 ```powershell
-powershell -ExecutionPolicy Bypass -NoProfile -Command "Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/AZC44/AZC-Checker-V1/main/AZC%20Checker.ps1')"
+powershell -ExecutionPolicy Bypass -NoProfile -Command "Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/AZC44/AZC-Checker-V1/main/AZC%20CheckerV1.ps1')"
 ```
 
 ## Usage
